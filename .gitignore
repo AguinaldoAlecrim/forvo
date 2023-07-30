@@ -1,0 +1,4 @@
+venv/
+.vscode/
+.fuse_hidden*
+__pycache__/
