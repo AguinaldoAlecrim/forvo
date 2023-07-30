@@ -19,5 +19,3 @@ A execução se dá pelo seguinte comando:
 ```bash
 (venv) aguialecrim@debian:~$ python app.py
 ```
-Executando:<br>
-<video src='./video.mp4' width=400/> 
